@@ -1,5 +1,3 @@
-
-aws devops TRAINING
 hii
 helo
 
